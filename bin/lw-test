@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+require('commander')
+  .version(require('../package').version)
+  .usage('<command> [options]')
+  .command('hello', 'say hello')
+  .command('option', 'demo for option')
+  .parse(process.argv)
