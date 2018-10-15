@@ -1,0 +1,10 @@
+{
+    "webpack": {
+        "config": [{
+            "path": "@/config/webpack.base.config.js"
+        }]
+    },
+    "package.json": {
+        "path": "@/package.json"
+    }
+}

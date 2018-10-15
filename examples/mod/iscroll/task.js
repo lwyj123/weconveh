@@ -2,4 +2,4 @@
 
 
 
-// 也可以对表ng生成schema.json
+// 也可以对标ng生成schema.json

@@ -1,10 +1,17 @@
 {
     "mods": {
         "typescript": {
-
+            "namespace": "lwyj123",
+            "version": "1.2.3"
         },
         "iscroll": {
-
+            "namespace": "lwyj123",
+            "version": "1.2.3"
+        }
+    },
+    "scanners": {
+        "lwyj123": { // 扫描这块要再看看怎么弄
+            "url": "https://sundog.com/keke.json"
         }
     },
     "last_updated_at": "2018-10-14T09:59:27.082Z"
