@@ -52,6 +52,7 @@
     "suppressExcessPropertyErrors": true,
     "suppressImplicitAnyIndexErrors": true,
     "target": "ES6",
+    "allowJs": true,
     "theme": "minimal"
   }
 }

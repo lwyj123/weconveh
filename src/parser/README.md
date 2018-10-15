@@ -1,0 +1,2 @@
+# README
+parser文件夹用于存放文件的AST解析器，主要用于生成AST然后给transformer进行转化，最后用generator重新生成代码
